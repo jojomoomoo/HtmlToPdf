@@ -1,0 +1,255 @@
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\ApplicationInsights.config
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\csc.exe
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\System.Collections.Immutable.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\vbc.exe
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\VBCSCompiler.exe
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\VBCSCompiler.exe.config
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\HtmlToPdf.dll.config
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\HtmlToPdf.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\HtmlToPdf.pdb
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Antlr3.Runtime.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\EntityFramework.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\EntityFramework.SqlServer.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\itextsharp.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.Web.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.WindowsServer.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.ApplicationInsights.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Google.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Web.Infrastructure.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Newtonsoft.Json.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Owin.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Helpers.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Mvc.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Optimization.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Razor.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.WebPages.Deployment.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.WebPages.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.WebPages.Razor.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\WebGrease.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\itextsharp.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.Web.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.WindowsServer.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.ApplicationInsights.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Helpers.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Mvc.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Optimization.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Razor.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.WebPages.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.WebPages.Deployment.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.WebPages.Razor.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Antlr3.Runtime.pdb
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Newtonsoft.Json.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\EntityFramework.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\EntityFramework.SqlServer.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Google.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\obj\Debug\HtmlToPdf.dll
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\obj\Debug\HtmlToPdf.pdb
+c:\users\joseph.mueller\documents\visual studio 2015\Projects\HtmlToPdf\HtmlToPdf\obj\Debug\HtmlToPdf.csprojResolveAssemblyReference.cache
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\ApplicationInsights.config
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\csc.exe
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\Microsoft.CSharp.Core.targets
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\System.Collections.Immutable.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\System.Reflection.Metadata.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\vbc.exe
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\VBCSCompiler.exe
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\VBCSCompiler.exe.config
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\HtmlToPdf.dll.config
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\HtmlToPdf.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\HtmlToPdf.pdb
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Antlr3.Runtime.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\EntityFramework.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\EntityFramework.SqlServer.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\itextsharp.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.Agent.Intercept.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.DependencyCollector.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.PerfCounterCollector.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.Web.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.WindowsServer.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.ApplicationInsights.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AspNet.Identity.Core.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AspNet.Identity.Owin.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Cookies.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Facebook.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Google.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.OAuth.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Twitter.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Web.Infrastructure.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Newtonsoft.Json.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Owin.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Helpers.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Mvc.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Optimization.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Razor.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.WebPages.Deployment.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.WebPages.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.WebPages.Razor.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\WebGrease.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\itextsharp.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.DependencyCollector.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.Web.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.WindowsServer.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.ApplicationInsights.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Helpers.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Mvc.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Optimization.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Razor.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.WebPages.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.WebPages.Deployment.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.WebPages.Razor.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Antlr3.Runtime.pdb
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Newtonsoft.Json.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\EntityFramework.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\EntityFramework.SqlServer.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AspNet.Identity.Core.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AspNet.Identity.Owin.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Facebook.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Cookies.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.OAuth.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Google.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Twitter.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\obj\Debug\HtmlToPdf.csprojAssemblyReference.cache
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\obj\Debug\HtmlToPdf.csproj.CoreCompileInputs.cache
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\obj\Debug\HtmlToPdf.csproj.CopyComplete
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\obj\Debug\HtmlToPdf.dll
+\\nebulous\Enforcement\Permits\Projects\HtmlToPdf\HtmlToPdf\obj\Debug\HtmlToPdf.pdb
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\ApplicationInsights.config
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\csc.exe
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\System.Collections.Immutable.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\System.Reflection.Metadata.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\vbc.exe
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\VBCSCompiler.exe
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\roslyn\VBCSCompiler.exe.config
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\HtmlToPdf.dll.config
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\HtmlToPdf.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\HtmlToPdf.pdb
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Antlr3.Runtime.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\EntityFramework.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\EntityFramework.SqlServer.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\itextsharp.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.DependencyCollector.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.Web.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.WindowsServer.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.ApplicationInsights.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Google.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Web.Infrastructure.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Newtonsoft.Json.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Owin.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Helpers.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Mvc.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Optimization.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Razor.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.WebPages.Deployment.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.WebPages.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.WebPages.Razor.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\WebGrease.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\itextsharp.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.DependencyCollector.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.Web.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AI.WindowsServer.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.ApplicationInsights.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Helpers.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Mvc.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Optimization.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.Razor.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.WebPages.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.WebPages.Deployment.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\System.Web.WebPages.Razor.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Antlr3.Runtime.pdb
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Newtonsoft.Json.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\EntityFramework.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\EntityFramework.SqlServer.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Google.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\obj\Debug\HtmlToPdf.csprojAssemblyReference.cache
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\obj\Debug\HtmlToPdf.csproj.CopyComplete
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\obj\Debug\HtmlToPdf.dll
+E:\Permits\Projects\HtmlToPdf\HtmlToPdf\obj\Debug\HtmlToPdf.pdb
